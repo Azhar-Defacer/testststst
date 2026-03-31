@@ -7,7 +7,7 @@
   ],
   "headers": [
     {
-      "source": "/install.sh",
+      "source": "/install",
       "headers": [
         {
           "key": "Content-Type",
