@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Raw Script Viewer</title>
-</head>
-<body>
-    <h1>Pterodactyl Installer Script</h1>
-    <!-- Tag <pre> menjaga spasi dan baris baru agar tetap rapi -->
-    <pre style="background: #f4f4f4; padding: 15px; border: 1px solid #ddd;">
-      #!/bin/bash
+#!/bin/bash
 
 set -e
 
@@ -121,6 +112,3 @@ done
 
 # Remove lib.sh, so next time the script is run the, newest version is downloaded.
 rm -rf /tmp/lib.sh
-    </pre>
-</body>
-</html>
