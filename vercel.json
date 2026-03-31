@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/install.sh"
+      "destination": "/install"
     }
   ],
   "headers": [
